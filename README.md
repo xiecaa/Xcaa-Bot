@@ -11,5 +11,5 @@
    <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=Xcaa-Bot&show_icons=true&theme=chartreuse-dark&locale=id">
 </p>
 <p align="center">
-   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xcaa-Bot&layout=compact&theme=chartreuse-dark">
+   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xcaa-Bot&layout=compact&theme=chartreuse-pink">
 </p>
