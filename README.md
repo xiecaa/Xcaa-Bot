@@ -7,3 +7,9 @@
    />
  </a>
 </p>
+<p align="center">
+   <img 
+    src="https://readme-typing-svg.herokuapp.com?font=chrome&color=%23F76DC3&size=25&center=true&multiline=true&height=60&lines=Xcaa+Bot+Screate+FxSx"
+   />
+  </a>
+ </p>
